@@ -1,0 +1,425 @@
+Your Movie List
+
+Title	Year	Rating	Genre	Type	Stars
+
+To Kill a Mockingbird                      1962         5     Drama                        M	Stars: Gregory Peck, Mary Badham
+Ferris Bueller's Day Off                   1986         7     Comedy                       M	Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Rocky                                      1976         7     Action                       M	Stars: Sylvester Stallone, Carl Weathers
+Jaws                                       1975         5     Action                       M	Stars: Roy Scheider, Richard Dreyfuss
+Daughters of the Dust                      1991         8     Drama                        M	Stars: Alva Rogers, Cora Lee Day
+Raiders of the Lost Ark                    1981         6     Action                       M	Stars: Harrison Ford, Karen Allen
+Star Wars IV                               1977         6     Action                       M	Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Mr. Holland's Opus                         1995         8     Drama/Musical                M	Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Blade Runner 2049                          2017         9     Sci-Fi                       M	Stars: Ryan Gosling, Harrison Ford
+Jurassic Park                              1993         8     Sci-Fi                       M	Stars: Sam Neill, Jeff Goldblum
+Dune                                       2021         7     Sci-Fi                       M	Stars: Timothee Chalamet, Zendaya
+Fight Club                                 1999        10     Drama                        M	Stars: Brad Pitt, Edward Norton
+Percy Jackson and the Lightning Thief      2010         2     Fantasy                      M	Stars: Logan Lerman, Alexandra Daddario
+The Grand Budapest Hotel                   2014         9     Adventure                    M	Stars: Ralph Fiennes, Saoirse Ronan
+Superman                                   1978         8     Sci-Fi                       M	Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Spirited Away                              2002         8     Fantasy                      M	Stars: Rumi Hiiragi, Miyu Irino
+Gone Girl                                  2014        10     Thriller/Mystery             M	Stars: Ben Affleck, Rosamund Pike
+Moonlight                                  2016        10     Drama                        M	Stars: Mahershala Ali, Naomi Harris
+The Wolf of Wallstreet                     2013        10     Comedy                       M	Stars: Leonardo DiCaprio, Jonah Hill
+Maximum Overdrive                          1986         5     Horror                       M	Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+Your Book List
+
+Title	Year	Rating	Genre	Type	Weeks on NYT List
+
+To Kill a Mockingbird                      1960         8     Southern Gothic Fiction      B	Weeks on NYT list: 4
+Animal Farm                                1945         8     Allegory                     B	Weeks on NYT list: 6
+The Great Gatsby                           1925         7     Modernist novel              B	Weeks on NYT list: 10
+The Catcher in the Rye                     1951         3     Coming of Age                B	Weeks on NYT list: 9
+Lord of the Flies                          1954         6     Adventure                    B	Weeks on NYT list: 3
+Of Mice and Men                            1937         5     Tragedy                      B	Weeks on NYT list: 15
+House of Leaves                            2000         9     Horror                       B	Weeks on NYT list: 0
+I Can Teach You to Be Rich                 2009         8     Self Help                    B	Weeks on NYT list: 16
+Neuromancer                                1984        10     Cyberpunk                    B	Weeks on NYT list: 16
+Percy Jackson and the Last Olympian        2009         9     Fantasy                      B	Weeks on NYT list: 15
+Six of Crows                               2015        10     Fantasy                      B	Weeks on NYT list: 20
+The Alchemist                              1993         9     Adventure                    B	Weeks on NYT list: 10
+The Goldfinch                              2013        10     Suspense                     B	Weeks on NYT list: 1
+The Hunger Games                           2008         7     Action                       B	Weeks on NYT list: 15
+The Music of Erich Zann                    1921        10     Horror                       B	Weeks on NYT list: 2
+Way of kings                               2010        10     Fantasy                      B	Weeks on NYT list: 5
+Your Song List
+
+Title	Year	Rating	Genre	Type	Top 40
+
+All Too Well                               2012        10     Pop                          S	Top 40: true
+Ball if I want to                          2021        10     Rap                          S	Top 40: true
+Call out my name                           2021         8     R&B                          S	Top 40: false
+Yesterday                                  1965         8     Rock                         S	Top 40: true
+Compass                                    2018         8     Indie                        S	Top 40: true
+Easy on me                                 2021         6     pop                          S	Top 40: false
+Figures                                    2018         8     R&B                          S	Top 40: false
+First Love / Late Spring                   2014        10     Indie                        S	Top 40: true
+Frozen                                     2017         5     R&B                          S	Top 40: true
+Garden Grove                               1998        10     Reggae                       S	Top 40: false
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Har dil ki ava                             2014        10     Slow music                   S	Top 40: true
+Holy Ghost                                 2015         8     Choir                        S	Top 40: true
+kal ho na ho                               2009         9     Punajbi                      S	Top 40: false
+Let It Be                                  1970         9     Rock                         S	Top 40: true
+Monks                                      2012        10     Pop                          S	Top 40: true
+More Than a Woman                          1977         9     Pop                          S	Top 40: false
+nasha ha                                   2010         8     normal one                   S	Top 40: false
+Out Tha Mud                                2015        10     Rap                          S	Top 40: false
+Phali dafa                                 2017         9     urdu                         S	Top 40: false
+Sea Dragon                                 2018         9     Math Rock                    S	Top 40: true
+Slacker                                    2002        10     Rap                          S	Top 40: true
+Something                                  2015        10     R&B - Jazz                   S	Top 40: true
+Sweet Caroline                             1969        10     Rock                         S	Top 40: true
+Sweet Life                                 2012         8     Pop                          S	Top 40: false
+Thank u - next                             2019         8     Pop                          S	Top 40: true
+The Mountain Top                           2021        10     Video Game Soundtrack        S	Top 40: false
+Tik Tok                                    2009         9     Pop                          S	Top 40: true
+Tranquility Base Hotel & Casino            2018        10     Rock                         S	Top 40: true
+Wake Up                                    2015         9     Alternative                  S	Top 40: false
+Your Media List
+
+Title	Year	Rating	Genre	Type
+
+Daughters of the Dust                      1991         8     Drama                        M	Stars: Alva Rogers, Cora Lee Day
+Mr. Holland's Opus                         1995         8     Drama/Musical                M	Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+To Kill a Mockingbird                      1960         8     Southern Gothic Fiction      B	Weeks on NYT list: 4
+Animal Farm                                1945         8     Allegory                     B	Weeks on NYT list: 6
+Blade Runner 2049                          2017         9     Sci-Fi                       M	Stars: Ryan Gosling, Harrison Ford
+Jurassic Park                              1993         8     Sci-Fi                       M	Stars: Sam Neill, Jeff Goldblum
+Fight Club                                 1999        10     Drama                        M	Stars: Brad Pitt, Edward Norton
+The Grand Budapest Hotel                   2014         9     Adventure                    M	Stars: Ralph Fiennes, Saoirse Ronan
+Superman                                   1978         8     Sci-Fi                       M	Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Spirited Away                              2002         8     Fantasy                      M	Stars: Rumi Hiiragi, Miyu Irino
+Gone Girl                                  2014        10     Thriller/Mystery             M	Stars: Ben Affleck, Rosamund Pike
+Moonlight                                  2016        10     Drama                        M	Stars: Mahershala Ali, Naomi Harris
+The Wolf of Wallstreet                     2013        10     Comedy                       M	Stars: Leonardo DiCaprio, Jonah Hill
+House of Leaves                            2000         9     Horror                       B	Weeks on NYT list: 0
+I Can Teach You to Be Rich                 2009         8     Self Help                    B	Weeks on NYT list: 16
+Neuromancer                                1984        10     Cyberpunk                    B	Weeks on NYT list: 16
+Percy Jackson and the Last Olympian        2009         9     Fantasy                      B	Weeks on NYT list: 15
+Six of Crows                               2015        10     Fantasy                      B	Weeks on NYT list: 20
+The Alchemist                              1993         9     Adventure                    B	Weeks on NYT list: 10
+The Goldfinch                              2013        10     Suspense                     B	Weeks on NYT list: 1
+The Music of Erich Zann                    1921        10     Horror                       B	Weeks on NYT list: 2
+Way of kings                               2010        10     Fantasy                      B	Weeks on NYT list: 5
+All Too Well                               2012        10     Pop                          S	Top 40: true
+Ball if I want to                          2021        10     Rap                          S	Top 40: true
+Call out my name                           2021         8     R&B                          S	Top 40: false
+Yesterday                                  1965         8     Rock                         S	Top 40: true
+Compass                                    2018         8     Indie                        S	Top 40: true
+Figures                                    2018         8     R&B                          S	Top 40: false
+First Love / Late Spring                   2014        10     Indie                        S	Top 40: true
+Garden Grove                               1998        10     Reggae                       S	Top 40: false
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Har dil ki ava                             2014        10     Slow music                   S	Top 40: true
+Holy Ghost                                 2015         8     Choir                        S	Top 40: true
+kal ho na ho                               2009         9     Punajbi                      S	Top 40: false
+Let It Be                                  1970         9     Rock                         S	Top 40: true
+Monks                                      2012        10     Pop                          S	Top 40: true
+More Than a Woman                          1977         9     Pop                          S	Top 40: false
+nasha ha                                   2010         8     normal one                   S	Top 40: false
+Out Tha Mud                                2015        10     Rap                          S	Top 40: false
+Phali dafa                                 2017         9     urdu                         S	Top 40: false
+Sea Dragon                                 2018         9     Math Rock                    S	Top 40: true
+Slacker                                    2002        10     Rap                          S	Top 40: true
+Something                                  2015        10     R&B - Jazz                   S	Top 40: true
+Sweet Caroline                             1969        10     Rock                         S	Top 40: true
+Sweet Life                                 2012         8     Pop                          S	Top 40: false
+Thank u - next                             2019         8     Pop                          S	Top 40: true
+The Mountain Top                           2021        10     Video Game Soundtrack        S	Top 40: false
+Tik Tok                                    2009         9     Pop                          S	Top 40: true
+Tranquility Base Hotel & Casino            2018        10     Rock                         S	Top 40: true
+Wake Up                                    2015         9     Alternative                  S	Top 40: false
+Your Media Library
+Movies: 20
+Books: 16
+Songs: 30
+Total: 66
+Your Book List
+
+Title	Year	Rating	Genre	Type	Weeks on NYT List
+
+To Kill a Mockingbird                      1960         8     Southern Gothic Fiction      B	Weeks on NYT list: 4
+Animal Farm                                1945         8     Allegory                     B	Weeks on NYT list: 6
+House of Leaves                            2000         9     Horror                       B	Weeks on NYT list: 0
+I Can Teach You to Be Rich                 2009         8     Self Help                    B	Weeks on NYT list: 16
+Neuromancer                                1984        10     Cyberpunk                    B	Weeks on NYT list: 16
+Percy Jackson and the Last Olympian        2009         9     Fantasy                      B	Weeks on NYT list: 15
+Six of Crows                               2015        10     Fantasy                      B	Weeks on NYT list: 20
+The Alchemist                              1993         9     Adventure                    B	Weeks on NYT list: 10
+The Goldfinch                              2013        10     Suspense                     B	Weeks on NYT list: 1
+The Music of Erich Zann                    1921        10     Horror                       B	Weeks on NYT list: 2
+Way of kings                               2010        10     Fantasy                      B	Weeks on NYT list: 5
+Your Song List
+
+Title	Year	Rating	Genre	Type	Top 40
+
+All Too Well                               2012        10     Pop                          S	Top 40: true
+Ball if I want to                          2021        10     Rap                          S	Top 40: true
+First Love / Late Spring                   2014        10     Indie                        S	Top 40: true
+Garden Grove                               1998        10     Reggae                       S	Top 40: false
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Har dil ki ava                             2014        10     Slow music                   S	Top 40: true
+kal ho na ho                               2009         9     Punajbi                      S	Top 40: false
+Let It Be                                  1970         9     Rock                         S	Top 40: true
+Monks                                      2012        10     Pop                          S	Top 40: true
+More Than a Woman                          1977         9     Pop                          S	Top 40: false
+Out Tha Mud                                2015        10     Rap                          S	Top 40: false
+Phali dafa                                 2017         9     urdu                         S	Top 40: false
+Sea Dragon                                 2018         9     Math Rock                    S	Top 40: true
+Slacker                                    2002        10     Rap                          S	Top 40: true
+Something                                  2015        10     R&B - Jazz                   S	Top 40: true
+Sweet Caroline                             1969        10     Rock                         S	Top 40: true
+The Mountain Top                           2021        10     Video Game Soundtrack        S	Top 40: false
+Tik Tok                                    2009         9     Pop                          S	Top 40: true
+Tranquility Base Hotel & Casino            2018        10     Rock                         S	Top 40: true
+Wake Up                                    2015         9     Alternative                  S	Top 40: false
+Your Media List
+
+Title	Year	Rating	Genre	Type
+
+Fight Club                                 1999        10     Drama                        M	Stars: Brad Pitt, Edward Norton
+Gone Girl                                  2014        10     Thriller/Mystery             M	Stars: Ben Affleck, Rosamund Pike
+Moonlight                                  2016        10     Drama                        M	Stars: Mahershala Ali, Naomi Harris
+The Wolf of Wallstreet                     2013        10     Comedy                       M	Stars: Leonardo DiCaprio, Jonah Hill
+Neuromancer                                1984        10     Cyberpunk                    B	Weeks on NYT list: 16
+Six of Crows                               2015        10     Fantasy                      B	Weeks on NYT list: 20
+The Goldfinch                              2013        10     Suspense                     B	Weeks on NYT list: 1
+The Music of Erich Zann                    1921        10     Horror                       B	Weeks on NYT list: 2
+Way of kings                               2010        10     Fantasy                      B	Weeks on NYT list: 5
+All Too Well                               2012        10     Pop                          S	Top 40: true
+Ball if I want to                          2021        10     Rap                          S	Top 40: true
+First Love / Late Spring                   2014        10     Indie                        S	Top 40: true
+Garden Grove                               1998        10     Reggae                       S	Top 40: false
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Har dil ki ava                             2014        10     Slow music                   S	Top 40: true
+Monks                                      2012        10     Pop                          S	Top 40: true
+Out Tha Mud                                2015        10     Rap                          S	Top 40: false
+Slacker                                    2002        10     Rap                          S	Top 40: true
+Something                                  2015        10     R&B - Jazz                   S	Top 40: true
+Sweet Caroline                             1969        10     Rock                         S	Top 40: true
+The Mountain Top                           2021        10     Video Game Soundtrack        S	Top 40: false
+Tranquility Base Hotel & Casino            2018        10     Rock                         S	Top 40: true
+Hidden Figures was added to your list
+Africa was added to your list
+Strawberry Fields Forever was added to your list
+Bohemian Rhapsody was added to your list
+Close Encounters was added to your list
+Lessons in Chemistry was added to your list
+Yellow Submarine was added to your list
+Your Song List
+
+Title	Year	Rating	Genre	Type	Top 40
+
+All Too Well                               2012        10     Pop                          S	Top 40: true
+Ball if I want to                          2021        10     Rap                          S	Top 40: true
+First Love / Late Spring                   2014        10     Indie                        S	Top 40: true
+Garden Grove                               1998        10     Reggae                       S	Top 40: false
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Har dil ki ava                             2014        10     Slow music                   S	Top 40: true
+kal ho na ho                               2009         9     Punajbi                      S	Top 40: false
+Let It Be                                  1970         9     Rock                         S	Top 40: true
+Monks                                      2012        10     Pop                          S	Top 40: true
+More Than a Woman                          1977         9     Pop                          S	Top 40: false
+Out Tha Mud                                2015        10     Rap                          S	Top 40: false
+Phali dafa                                 2017         9     urdu                         S	Top 40: false
+Sea Dragon                                 2018         9     Math Rock                    S	Top 40: true
+Slacker                                    2002        10     Rap                          S	Top 40: true
+Something                                  2015        10     R&B - Jazz                   S	Top 40: true
+Sweet Caroline                             1969        10     Rock                         S	Top 40: true
+The Mountain Top                           2021        10     Video Game Soundtrack        S	Top 40: false
+Tik Tok                                    2009         9     Pop                          S	Top 40: true
+Tranquility Base Hotel & Casino            2018        10     Rock                         S	Top 40: true
+Wake Up                                    2015         9     Alternative                  S	Top 40: false
+Strawberry Fields Forever                  1967         9     Pop                          S
+Your Media List
+
+Title	Year	Rating	Genre	Type
+
+All Too Well                               2012        10     Pop                          S	Top 40: true
+Easy on me                                 2021         6     pop                          S	Top 40: false
+Monks                                      2012        10     Pop                          S	Top 40: true
+More Than a Woman                          1977         9     Pop                          S	Top 40: false
+Sweet Life                                 2012         8     Pop                          S	Top 40: false
+Thank u - next                             2019         8     Pop                          S	Top 40: true
+Tik Tok                                    2009         9     Pop                          S	Top 40: true
+Strawberry Fields Forever                  1967         9     Pop                          S
+Yellow Submarine                           1966         8     Pop                          S
+Your Book List
+
+Title	Year	Rating	Genre	Type	Weeks on NYT List
+
+To Kill a Mockingbird                      1960         8     Southern Gothic Fiction      B	Weeks on NYT list: 4
+Animal Farm                                1945         8     Allegory                     B	Weeks on NYT list: 6
+The Great Gatsby                           1925         7     Modernist novel              B	Weeks on NYT list: 10
+House of Leaves                            2000         9     Horror                       B	Weeks on NYT list: 0
+I Can Teach You to Be Rich                 2009         8     Self Help                    B	Weeks on NYT list: 16
+Neuromancer                                1984        10     Cyberpunk                    B	Weeks on NYT list: 16
+Percy Jackson and the Last Olympian        2009         9     Fantasy                      B	Weeks on NYT list: 15
+Six of Crows                               2015        10     Fantasy                      B	Weeks on NYT list: 20
+The Alchemist                              1993         9     Adventure                    B	Weeks on NYT list: 10
+The Goldfinch                              2013        10     Suspense                     B	Weeks on NYT list: 1
+The Hunger Games                           2008         7     Action                       B	Weeks on NYT list: 15
+The Music of Erich Zann                    1921        10     Horror                       B	Weeks on NYT list: 2
+Way of kings                               2010        10     Fantasy                      B	Weeks on NYT list: 5
+Your Movie List
+
+Title	Year	Rating	Genre	Type	Stars
+
+Daughters of the Dust                      1991         8     Drama                        M	Stars: Alva Rogers, Cora Lee Day
+Mr. Holland's Opus                         1995         8     Drama/Musical                M	Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Blade Runner 2049                          2017         9     Sci-Fi                       M	Stars: Ryan Gosling, Harrison Ford
+Jurassic Park                              1993         8     Sci-Fi                       M	Stars: Sam Neill, Jeff Goldblum
+Fight Club                                 1999        10     Drama                        M	Stars: Brad Pitt, Edward Norton
+The Grand Budapest Hotel                   2014         9     Adventure                    M	Stars: Ralph Fiennes, Saoirse Ronan
+Superman                                   1978         8     Sci-Fi                       M	Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Spirited Away                              2002         8     Fantasy                      M	Stars: Rumi Hiiragi, Miyu Irino
+Gone Girl                                  2014        10     Thriller/Mystery             M	Stars: Ben Affleck, Rosamund Pike
+Moonlight                                  2016        10     Drama                        M	Stars: Mahershala Ali, Naomi Harris
+The Wolf of Wallstreet                     2013        10     Comedy                       M	Stars: Leonardo DiCaprio, Jonah Hill
+Hidden Figures                             2016         9     Drama                        M	Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+Your Book List
+
+Title	Year	Rating	Genre	Type	Weeks on NYT List
+
+The Goldfinch                              2013        10     Suspense                     B	Weeks on NYT list: 1
+Media with Keyword: Stephen King
+Title	Year	Rating	Genre	Type
+Maximum Overdrive                          1986         5     Horror                       M	Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+Your Movie List
+
+Title	Year	Rating	Genre	Type	Stars
+
+Rocky                                      1976         7     Action                       M	Stars: Sylvester Stallone, Carl Weathers
+Jaws                                       1975         5     Action                       M	Stars: Roy Scheider, Richard Dreyfuss
+Raiders of the Lost Ark                    1981         6     Action                       M	Stars: Harrison Ford, Karen Allen
+Star Wars IV                               1977         6     Action                       M	Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Your Song List
+
+Title	Year	Rating	Genre	Type	Top 40
+
+Call out my name                           2021         8     R&B                          S	Top 40: false
+Figures                                    2018         8     R&B                          S	Top 40: false
+Frozen                                     2017         5     R&B                          S	Top 40: true
+Your Song List
+
+Title	Year	Rating	Genre	Type	Top 40
+
+Yesterday                                  1965         8     Rock                         S	Top 40: true
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Let It Be                                  1970         9     Rock                         S	Top 40: true
+Sweet Caroline                             1969        10     Rock                         S	Top 40: true
+Tranquility Base Hotel & Casino            2018        10     Rock                         S	Top 40: true
+Africa                                     1982         7     rock                         S
+Bohemian Rhapsody                          1975         8     rock                         S
+The Stars of the Movie Hidden Figures are:
+Jaraji P Henson, Octavia Spencer, Janelle Monae
+The Stars of the Movie Superman are:
+Christopher Reeve, Gene Hackman, Margo Kidder
+The Stars of the Movie Dune are:
+Timothee Chalamet, Zendaya
+Movies starring: Octavia Spencer
+Hidden Figures                             2016         9     Drama                        M	Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+Movies starring: Harrison Ford
+Raiders of the Lost Ark                    1981         6     Action                       M	Stars: Harrison Ford, Karen Allen
+Star Wars IV                               1977         6     Action                       M	Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Blade Runner 2049                          2017         9     Sci-Fi                       M	Stars: Ryan Gosling, Harrison Ford
+Media with Keyword: Steven Spielberg
+Title	Year	Rating	Genre	Type
+Jaws                                       1975         5     Action                       M	Stars: Roy Scheider, Richard Dreyfuss
+Jurassic Park                              1993         8     Sci-Fi                       M	Stars: Sam Neill, Jeff Goldblum
+Close Encounters                           1997         5     Science Fiction              B
+Media with Keyword: Bee Gees
+Title	Year	Rating	Genre	Type
+More Than a Woman                          1977         9     Pop                          S	Top 40: false
+Media with Keyword: Beatles
+Title	Year	Rating	Genre	Type
+Yesterday                                  1965         8     Rock                         S	Top 40: true
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Let It Be                                  1970         9     Rock                         S	Top 40: true
+Strawberry Fields Forever                  1967         9     Pop                          S
+Yellow Submarine                           1966         8     Pop                          S
+Your Media List
+
+Title	Year	Rating	Genre	Type
+
+To Kill a Mockingbird                      1962         5     Drama                        M	Stars: Gregory Peck, Mary Badham
+Ferris Bueller's Day Off                   1986         7     Comedy                       M	Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Rocky                                      1976         7     Action                       M	Stars: Sylvester Stallone, Carl Weathers
+Jaws                                       1975         5     Action                       M	Stars: Roy Scheider, Richard Dreyfuss
+Daughters of the Dust                      1991         8     Drama                        M	Stars: Alva Rogers, Cora Lee Day
+Raiders of the Lost Ark                    1981         6     Action                       M	Stars: Harrison Ford, Karen Allen
+Star Wars IV                               1977         6     Action                       M	Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Mr. Holland's Opus                         1995         8     Drama/Musical                M	Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+To Kill a Mockingbird                      1960         8     Southern Gothic Fiction      B	Weeks on NYT list: 4
+Animal Farm                                1945         8     Allegory                     B	Weeks on NYT list: 6
+The Great Gatsby                           1925         7     Modernist novel              B	Weeks on NYT list: 10
+The Catcher in the Rye                     1951         3     Coming of Age                B	Weeks on NYT list: 9
+Lord of the Flies                          1954         6     Adventure                    B	Weeks on NYT list: 3
+Of Mice and Men                            1937         5     Tragedy                      B	Weeks on NYT list: 15
+Blade Runner 2049                          2017         9     Sci-Fi                       M	Stars: Ryan Gosling, Harrison Ford
+Jurassic Park                              1993         8     Sci-Fi                       M	Stars: Sam Neill, Jeff Goldblum
+Dune                                       2021         7     Sci-Fi                       M	Stars: Timothee Chalamet, Zendaya
+Fight Club                                 1999        10     Drama                        M	Stars: Brad Pitt, Edward Norton
+Percy Jackson and the Lightning Thief      2010         2     Fantasy                      M	Stars: Logan Lerman, Alexandra Daddario
+The Grand Budapest Hotel                   2014         9     Adventure                    M	Stars: Ralph Fiennes, Saoirse Ronan
+Superman                                   1978         8     Sci-Fi                       M	Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Spirited Away                              2002         8     Fantasy                      M	Stars: Rumi Hiiragi, Miyu Irino
+Gone Girl                                  2014        10     Thriller/Mystery             M	Stars: Ben Affleck, Rosamund Pike
+Moonlight                                  2016        10     Drama                        M	Stars: Mahershala Ali, Naomi Harris
+The Wolf of Wallstreet                     2013        10     Comedy                       M	Stars: Leonardo DiCaprio, Jonah Hill
+Maximum Overdrive                          1986         5     Horror                       M	Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+House of Leaves                            2000         9     Horror                       B	Weeks on NYT list: 0
+I Can Teach You to Be Rich                 2009         8     Self Help                    B	Weeks on NYT list: 16
+Neuromancer                                1984        10     Cyberpunk                    B	Weeks on NYT list: 16
+Percy Jackson and the Last Olympian        2009         9     Fantasy                      B	Weeks on NYT list: 15
+Six of Crows                               2015        10     Fantasy                      B	Weeks on NYT list: 20
+The Alchemist                              1993         9     Adventure                    B	Weeks on NYT list: 10
+The Goldfinch                              2013        10     Suspense                     B	Weeks on NYT list: 1
+The Hunger Games                           2008         7     Action                       B	Weeks on NYT list: 15
+The Music of Erich Zann                    1921        10     Horror                       B	Weeks on NYT list: 2
+Way of kings                               2010        10     Fantasy                      B	Weeks on NYT list: 5
+All Too Well                               2012        10     Pop                          S	Top 40: true
+Ball if I want to                          2021        10     Rap                          S	Top 40: true
+Call out my name                           2021         8     R&B                          S	Top 40: false
+Yesterday                                  1965         8     Rock                         S	Top 40: true
+Compass                                    2018         8     Indie                        S	Top 40: true
+Easy on me                                 2021         6     pop                          S	Top 40: false
+Figures                                    2018         8     R&B                          S	Top 40: false
+First Love / Late Spring                   2014        10     Indie                        S	Top 40: true
+Frozen                                     2017         5     R&B                          S	Top 40: true
+Garden Grove                               1998        10     Reggae                       S	Top 40: false
+Hey Jude                                   1968        10     Rock                         S	Top 40: true
+Har dil ki ava                             2014        10     Slow music                   S	Top 40: true
+Holy Ghost                                 2015         8     Choir                        S	Top 40: true
+kal ho na ho                               2009         9     Punajbi                      S	Top 40: false
+Let It Be                                  1970         9     Rock                         S	Top 40: true
+Monks                                      2012        10     Pop                          S	Top 40: true
+More Than a Woman                          1977         9     Pop                          S	Top 40: false
+nasha ha                                   2010         8     normal one                   S	Top 40: false
+Out Tha Mud                                2015        10     Rap                          S	Top 40: false
+Phali dafa                                 2017         9     urdu                         S	Top 40: false
+Sea Dragon                                 2018         9     Math Rock                    S	Top 40: true
+Slacker                                    2002        10     Rap                          S	Top 40: true
+Something                                  2015        10     R&B - Jazz                   S	Top 40: true
+Sweet Caroline                             1969        10     Rock                         S	Top 40: true
+Sweet Life                                 2012         8     Pop                          S	Top 40: false
+Thank u - next                             2019         8     Pop                          S	Top 40: true
+The Mountain Top                           2021        10     Video Game Soundtrack        S	Top 40: false
+Tik Tok                                    2009         9     Pop                          S	Top 40: true
+Tranquility Base Hotel & Casino            2018        10     Rock                         S	Top 40: true
+Wake Up                                    2015         9     Alternative                  S	Top 40: false
+Hidden Figures                             2016         9     Drama                        M	Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+Africa                                     1982         7     rock                         S
+Strawberry Fields Forever                  1967         9     Pop                          S
+Bohemian Rhapsody                          1975         8     rock                         S
+Close Encounters                           1997         5     Science Fiction              B
+Lessons in Chemistry                       2022         5     Humor                        B
+Yellow Submarine                           1966         8     Pop                          S
+Your Media Library
+Movies: 21
+Books: 18
+Songs: 34
+Total: 73
+
+End of input list

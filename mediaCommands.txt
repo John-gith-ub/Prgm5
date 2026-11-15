@@ -36,6 +36,7 @@ S,Rock
 S,none
 L,Hidden Figures
 L,Lost
+L,Superman
 L,Dune
 F,Octavia Spencer
 F,Harrison Ford

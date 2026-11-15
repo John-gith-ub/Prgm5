@@ -1,0 +1,33 @@
+ERROR: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+Previous record has an java.lang.NumberFormatException: For input string: "Drama" error
+ERROR: B,Hamlet,William Shakespeare,4,Tragedy,214,1600,5
+Previous record has an error in year.
+ERROR: B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+Previous record has an java.lang.NumberFormatException: For input string: "Sci-Fi" error
+ERROR: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+Previous record has an error in the rating.
+ERROR: B,Crime and Punishment,Fyodor Dostoevsky,7,Crime Fiction,576,1866,15
+Previous record has an error in year.
+ERROR: B,Watchmen,Alan Moore,8,Sci-Fi,416,1987,ERROR
+Previous record has an java.lang.NumberFormatException: For input string: "ERROR" error
+ERROR: S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+Previous record has an error in year.
+ERROR: S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+Previous record has an java.lang.NumberFormatException: For input string: "INVALID" error
+ERROR: S,Stayin' Alive,Bee Gees,10,Pop,419,1979,ERROR
+Previous record has an java.lang.NumberFormatException: For input string: "ERROR" error
+Error in rating provided: 11
+Error in rating provided: -3
+Error in rating provided: -5
+Psych 2: Lassie Come Home contains an error in rating: 16
+Respect contains an error in a numeric field
+Strawberry Fields Forever contains an error in a numeric field
+Strawberry Fields Forever contains an error in a numeric field
+Close Encounters contains an error in a numeric field
+The Brothers Hawthorne contains an error in a numeric field
+Lessons in Chemistry contains an error in the year: 2026
+Error in rating provided: 15
+No media matched command: S,none
+Lost is not found in your list
+Victor Lee is not in any movies in your list
+Harrison Ford is not in any media in your list
